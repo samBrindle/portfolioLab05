@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Sam Brindle. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Welome!",
+      "description": "👋 I'm Sam Brindle and am from Iowa, but am currently learning Software Development from CodeFellows. After building a computer while I was attendinf the University of Iowa, I found myself coding in my free time which led to me deciding I wanted a career in programming. I primarily work with HTML, CSS, JavaScript, and React in my course but I also know Python and Java. I have a drive learning and enjoy being challenged with new tasks.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Match My Pet",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "My CodeFellows 201 final project. A memory card game which incorporates my pets image along with my colleagues pets. It randomizes each individual's experience and has a functioning leaderboard.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
